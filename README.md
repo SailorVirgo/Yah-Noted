@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -15,6 +16,16 @@
 
 ## Description
 Yah-Noted is a note-taking application that allows users to create, read, update, and delete notes. This project serves as a practical example of a full-stack application using `Node.js`, `Express.js`, and a front-end framework.
+
+## Demo
+
+#### Link to Demo:
+Open your browser and navigate to `http://localhost:3000`
+
+https://github.com/user-attachments/assets/164c6b3c-6c69-4b22-9849-32c9afee7363
+
+![Screenshot 2024-07-29 005900](https://github.com/user-attachments/assets/e72c527d-cd93-4ed2-b8d2-c5269b98181a)
+
 
 ## Installation
 
