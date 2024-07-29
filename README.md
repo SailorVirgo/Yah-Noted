@@ -20,7 +20,8 @@ Yah-Noted is a note-taking application that allows users to create, read, update
 ## Demo
 
 #### Link to Demo:
-Open your browser and navigate to `http://localhost:3000`
+
+https://app.screencastify.com/v3/watch/N1sCzdUap2UkNm10JPdZ
 
 https://github.com/user-attachments/assets/164c6b3c-6c69-4b22-9849-32c9afee7363
 
